@@ -1,0 +1,31 @@
+body {
+    background-color: #222222;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+    padding: 16px;
+    align-items: right;
+}
+
+li {
+    padding: 6px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    width: 90px;
+    height: 90px;
+    display: flex;
+    padding-top: -80px;
+    align-items: flex-start;
+
+}
